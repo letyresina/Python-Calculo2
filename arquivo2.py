@@ -12,4 +12,5 @@ while i < 10:
     f = a*i**2 + b*i +c
     y.append(f)
     i+=1
-    print(f"x = {x} \n y = {y}")
+print(x)
+print(y)
