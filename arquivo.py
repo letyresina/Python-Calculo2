@@ -7,8 +7,8 @@ def confereDelta(a, b, c):
     return delta
 
 a = float(input("Informe o valor de a: "))
-b = float(input("Informe o valor de a: "))
-c = float(input("Informe o valor de a: "))
+b = float(input("Informe o valor de b: "))
+c = float(input("Informe o valor de c: "))
 
 delta = confereDelta(a, b, c)
 
